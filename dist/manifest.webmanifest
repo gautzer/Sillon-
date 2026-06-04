@@ -1,0 +1,12 @@
+{
+  "name": "Sillon",
+  "short_name": "Sillon",
+  "description": "Notez, critiquez et partagez vos disques.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#16110d",
+  "theme_color": "#16110d",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
